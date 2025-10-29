@@ -1,4 +1,5 @@
 local allowedPlayers = {
+    -- Основные игроки
     ["X0_R9"] = true,
     ["beast_tracky999"] = true,
     ["bulIetwave"] = true,
@@ -7,8 +8,30 @@ local allowedPlayers = {
     ["l488_I1488"] = true,
     ["aliopiky"] = true,
     ["DeadlyInd1an"] = true,
-    ["ВАШ_НИК9"] = true,
-    ["ВАШ_НИК10"] = true
+    
+    -- Дополнительные слоты (замените на реальные имена)
+    ["deathmondat"] = true,
+    ["gualaprynce"] = true,
+    ["adamkadirovofficial"] = true,
+    ["slot_12"] = true,
+    ["slot_13"] = true,
+    ["slot_14"] = true,
+    ["slot_15"] = true,
+    ["slot_16"] = true,
+    ["slot_17"] = true,
+    ["slot_18"] = true,
+    ["slot_19"] = true,
+    ["slot_20"] = true,
+    ["slot_21"] = true,
+    ["slot_22"] = true,
+    ["slot_23"] = true,
+    ["slot_24"] = true,
+    ["slot_25"] = true,
+    ["slot_26"] = true,
+    ["slot_27"] = true,
+    ["slot_28"] = true,
+    ["slot_29"] = true,
+    ["slot_30"] = true
 }
 
 local playerName = game.Players.LocalPlayer.Name
