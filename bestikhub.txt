@@ -6,7 +6,7 @@ local allowedPlayers = {
     ["cheatersreturns"] = true,
     ["l488_I1488"] = true,
     ["aliopiky"] = true,
-    ["ВАШ_НИК8"] = true,
+    ["DeadlyInd1an"] = true,
     ["ВАШ_НИК9"] = true,
     ["ВАШ_НИК10"] = true
 }
