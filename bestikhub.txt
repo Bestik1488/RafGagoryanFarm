@@ -1,5 +1,4 @@
 local allowedPlayers = {
-    -- Основные игроки
     ["X0_R9"] = true,
     ["beast_tracky999"] = true,
     ["bulIetwave"] = true,
@@ -8,8 +7,6 @@ local allowedPlayers = {
     ["l488_I1488"] = true,
     ["aliopiky"] = true,
     ["DeadlyInd1an"] = true,
-    
-    -- Дополнительные слоты (замените на реальные имена)
     ["deathmondat"] = true,
     ["gualaprynce"] = true,
     ["adamkadirovofficial"] = true,
